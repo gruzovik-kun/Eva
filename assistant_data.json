@@ -1,0 +1,38 @@
+{
+  "commands": [
+    {
+      "text": "тишина",
+      "action_type": "key",
+      "action_value": "f6"
+    },
+    {
+      "text": "капибара",
+      "action_type": "app",
+      "action_value": "telegram"
+    },
+    {
+      "text": "volume up",
+      "action_type": "key",
+      "action_value": "f8"
+    },
+    {
+      "text": "volume down",
+      "action_type": "key",
+      "action_value": "f7"
+    },
+    {
+      "text": "за работу",
+      "action_type": "app",
+      "action_value": "pycharm"
+    }
+  ],
+  "settings": {
+    "gpt_models": "Llama3",
+    "search_system": "Яндекс",
+    "search_video": "Поисковая система",
+    "name": "Артём",
+    "your_message": "Отвечай вежливо, кратко и по делу, как дворецкие в фильмах",
+    "tokens": "100"
+  },
+  "voice_activation_mode": 1
+}
